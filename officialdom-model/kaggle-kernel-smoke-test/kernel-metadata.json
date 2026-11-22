@@ -1,0 +1,13 @@
+{
+  "id": "norsky/officialdom-qwen2-5-7b-smoke-test",
+  "title": "Officialdom Qwen2.5-7B QLoRA smoke test",
+  "code_file": "qwen2.5-7b-qlora-smoke-test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

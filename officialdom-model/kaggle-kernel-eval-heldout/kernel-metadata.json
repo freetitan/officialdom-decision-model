@@ -1,0 +1,15 @@
+{
+  "id": "norsky/officialdom-qwen2-5-7b-held-out-eval",
+  "title": "Officialdom Qwen2.5-7B held-out eval",
+  "code_file": "qwen2.5-7b-eval-heldout.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [
+    "norsky/officialdom-qwen2-5-7b-sft-batch-1"
+  ]
+}

@@ -1,0 +1,25 @@
+# Weights, checkpoints, training data: never commit these
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+data/
+*.jsonl
+corpus.json
+worker.js
+checkpoints/
+outputs/
+*.log
+
+# Credentials: never commit these
+.env
+kaggle.json
+*token*.json
+*secret*
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

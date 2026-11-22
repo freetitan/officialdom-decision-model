@@ -1,0 +1,18 @@
+{
+  "id": "norsky/officialdom-qwen2-5-7b-sft-batch-1",
+  "title": "Officialdom Qwen2.5-7B SFT batch 1",
+  "code_file": "qwen2.5-7b-sft-batch1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "norsky/officialdom-sft-batch6",
+    "norsky/officialdom-dpo-round1"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [
+    "norsky/officialdom-qwen2-5-7b-sft-batch-1"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "norsky/officialdom-qwen3-8b-zero-shot-baseline",
+  "title": "Officialdom Qwen3-8B zero-shot baseline",
+  "code_file": "qwen3-8b-eval-heldout-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
